@@ -1,0 +1,53 @@
+Jotting down some important key takeaways which inspire and support one to do professional market research.
+
+### Chapter 09-10 Quantitative research; Sampling and Statstistics
+- We are moving into the quantitative territory with a sample size greater than 30 in each cell.
+- Size of sample;. It is the absolute size of the sample that determines accuracy, not the proportion that the sample represents of the total population
+- Random sampling in consumer markets
+  Quadrupling the sample will usually double the accuracy for a given sample design. For example, if we interviewed 500 people, the error on a question would be plus or minus 2.7%, but if we interview 2000, then it will be + or - 1.3%
+  They must always be judged in terms of their accuracy on the number in the group of people being examined, a minimum size for a sub-cell in a quantitative survey is around 50 ppl.
+- If the ranges of error do not overlap between two results of two sub-groups, then we can say the difference is statistically significant, that sub-group 1 is significantly different with sub-group2 with regards a question
+- Quota samples
+  Remember to check quality/reputation of online panels.
+  Previous survey and census data tell us the splits by gender, age, income, geography, and many other key selection criteria.
+  Filling the quota will provide a mix of respondents that is reflective of the population being targeted.
+  If numbers required within a subgroup is sufficient to meet the needs of the total sample size but too small to provide reliable results about a subgroup, the common solution is to over sample the subgroup
+*Need to know more about factor analysis and clustering
+
+
+### Chapter 11 Questionnaire design
+- Behavior questions
+  Aiming at find out what do ppl claim to do.
+  They are often more robust and believable than answers to attitudinal questions.
+  Behavioural economics: decisions are not necessarily made on logic alone but on heuristics.
+- Attitudinal questions
+  Scales are commonly used to measure attitudes:
+    Numerical rating
+    Verbal rating (Questions like how likely can not necessarily be trusted, ppl’s claim in market research is very different from a real buying situation
+    Semantic differential scales (Usually used to find out ppl’s emotional attachments to brands)
+    Ranking (6 factors in the list is about the maximum, usually would ask about top5)
+- Classification questions
+  Demographic, socioeconomic, etc. For specific market, they might have a universal socioeconomic grades to use, for example in the UK
+- Three steps in questionnaire design
+  Formulating the questions: have objectives, is it for brand positioning, satisfaction or more? Listing some points, include classification questions that will be useful for slicing and dicing the data. A reasonable maximum of questionnaire takes about 15-20 minutes with 30-40 questions
+    Ensure questions are without bias
+    Make the questions simple
+    Make the questions very specific (No very often, quite often, every now and then, things like this that’s impossible to identify)
+    Avoid jargon
+    Avoid questions with a negative in them
+    Do not ask questions that are outside of reference of the respondents (Better to ask how many litres of milk do you buy in a typical week instead of how much do you buy each year)
+    Avoid too many rating scales
+  Arranging layout
+    Use screener questions to include only relevant ppl
+    Open questions are usually put before closed ones, but the reasoning one often come after closed ones
+  Piloting and testing the draft questionnaire
+- Special questionnaires: Conjoint analysis/Concept test
+    We group product attributes in different ways and see how respondents would pick.
+    Need at least 100, and best if can reach more than 200
+    Choiced based
+    MaxDiff, several rounds of asking for which is the most important to least important factors 
+- Trade off grids (need to know more)  
+  Easier than Conjoint analysis
+  SIMALTO
+
+
