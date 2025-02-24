@@ -51,3 +51,83 @@ Jotting down some important key takeaways which inspire and support one to do pr
   SIMALTO
 
 
+### Chapter 17 Using market research to segment markets
+-Type of segmentation approach
+  Geo-demographic: Framework/scheme to describe populations, e.g. PRIZM, Acorn
+  Behavioural
+  Attitudinal and needs-based segmentation: Attitude - strong, but very few segmentations are based upon them alone, as they are tricky to measure, usually we use likert scales. Needs are usually measured through ranking or a constant-sum scale or points spend question.
+  Business
+  Hybrid: for example, segmentation based upon segmentation adopted by US low-cost airline which combines flying behaviour with the key needs of different groups of passengers
+- Quantitative
+  Typical segmentation surveys have relatively large sample sizes
+  It is often shaped by prior qualitative research, which helps to include segmentation bases (attitude, needs and behaviours) and include descriptive variables 
+    Preferences regarding media/promotional channels
+    Where products and services are purchased
+    Which providers they are likely to consider
+    Positioning/opinion of the client organization
+- Statistical methods used in segmentation research
+  Factor analysis (more of an input into cluster analysis)
+  Cluster analysis (seeks to uncover natural groups or similar patterns of response across a range of input variables (K-means clustering, 2-step clustering, latent class clustering, hierarchical clustering, cluster ensemble analysis)
+- Successful segmentations
+  Segment distinctiveness
+  Segment recognition
+  Segment durability
+  Segment size: should be less than 6
+  Actionable segments
+- Communications
+  Most successful segmentations are the ones with clear marketing or sales objectives
+  Deliverable: a single slide segment description that might be included in a research report/ a customer value proposition (CVP) for each segment.
+
+### Chapter 18 Using Market Research to improve brand position
+- Researching at the birth of a brand
+  Interviews with internal stakeholders
+  Ambitions for the brand
+  Intended target audience, how it should make them think and feel. What’s the promise to the market
+  The architecture of brands
+  Visual identity of the brand
+  Qualitative research with the intended target audience
+  Desk researching the corporate positioning of major or potential competitors
+- Researching new visual identities
+  Paired-comparison
+  Monadic testing (each respondent is asked for his or her opinions on just 1, randomly chosen design option during the survey. It’s considered to be the fairest means of testing brand visuals, however, the downside is that it would require a larger sample sizes and is thus more expensive)
+  Proto-monadic
+  Sequential monadic testing
+  Criteria:
+  Overall likeability
+  Extent to which the visual identity aligns with desired brand values
+  Whether the logo is associated with the brand/category
+  How the logo is perceived in context
+- Brand Health monitoring
+  Brand tracking survey to understand the performance of the brand in the funnel 
+  Awareness
+  Spontaneous awareness: naming, top of mind, all of the brands they associate with a category of products [Free text and then coded] → A very good judge of the success of a brand because it relates to how synonymous a brand has become with its category.
+  Prompted awareness: excluded the spontaneous mentions from the list.
+  Prompted and spontaneous awareness are then added together to produce a metric - Total awareness
+  Familiarity (asking those who are aware)
+  Consideration (asking those who are aware)
+  Usage (with time frame)
+  Advocacy (asked of those that use)
+  Satisfaction questions, likelihood to recommend
+  Other topics covered in brand tracking studies
+    Ad awareness (Respondent not aware of the sponsor)
+    Channel of purchase (Give important intelligence about the channel strategies of competitors)
+    Behavior during the purchase decision
+    Switching patterns
+    Audience profiling
+- Research design
+  Frequency: Should be based upon when promo activities are anticipated to fall.
+  Consistency: Remain same or very similar
+  Do not disclose sponsor or hide until the end of the survey
+  Randomize the brand answer lists
+  Sample size
+  Sample should be designed so that previous survey participants are excluded
+  Brand positioning
+  Rank the Top 3 or 5 brand positions that are most important to them when making a purchase decision
+  Then, participants are asked to state, from the brands of which they are aware, those that they associate with each of the positions
+  Remember to include None in the table - help us to detect non taken positions in the market
+  Then we can have a matrix of importance and association with our brand
+  Brand map: Use correspondence analysis to evaluate the relative extent to which brands are linked with attributes, remember to exclude the effect of brand awareness
+- Valuing brands/brand equity
+  Brand - Price Trade Off (help measure market value when the financial data is not open or reliable)
+  Conjoint survey where different combination of brands and prices (for products that are ostensibly the same, an exercise that include attributes other than price should be considered) are combined, the most valuable brand is the one that is selected even when it’s presented at a higher price than its competitors/the brand has a stronger influence in the purchase decision
+
