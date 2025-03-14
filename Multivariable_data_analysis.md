@@ -9,7 +9,7 @@
 - Challenges: correctly specify a model form that represents the process being examined, and perform the analysis correctly to provide the explanation and predition desired.
 - The researcher must take some assumptions as to the nature of the process and specify a model form that best replicates its operations.
 - Examples: MANOVA, logistic regressions, etc.
-- * The researcher must recognize that any conclusions are about the proposed model and not really about the underlying process.
+- The researcher must recognize that any conclusions are about the proposed model and not really about the underlying process.
 - Usually for explanation, is theory based, structured, type of data analyzed are well defined, collected for purpose of the research.
 
 2. Data mining or algorithm models: The focus is not on the specified model, but the technique of explanation.
