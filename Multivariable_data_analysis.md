@@ -31,7 +31,7 @@
 ### Managing the Multivariate Model
 - Managing the variate: Taking care of multicollinearity - when focused on only predictions it has no real impact, but when the goal is **explanation** of the individual variables' impact, we want to assess the impact for any individual independent variable. The constant challenge: Including more variables as predictors to increase overall predictive power versus the **multicollinearity** introduced by more variables which makes it more difficult to attribute the explanatory effect to specific variables.
 - Specifying the Variate Variables - A solution for the above is often dimensional reduction - forming composites and the researcher then uses the composites in further analysis rather than the original variables.
-- **Specification of the variate is critical  --- including too many variables may hinder may hinder the ability of the model to recover more generalized effects and thus the efficacy of the results.
+- Specification of the variate is critical  --- including too many variables may hinder may hinder the ability of the model to recover more generalized effects and thus the efficacy of the results.
 - The possibility of several alternative models increases as the number of variables grows larger. So researchers should **try a number of alternative models** in specifying their research.
   
 
