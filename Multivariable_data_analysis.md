@@ -18,17 +18,17 @@
 - Examples: neutrual networks, decision trees and even cluster analysis - where the result is a prediction, not a generalization to the population.
 - Usually for prediction, heuristic-based, unstructured, exploratory, undefined, generally analysis using data available.
 
-## Metric Measurement Scales
+### Metric Measurement Scales
 - Interval scales, examples: Temperatures in Fahrenheit or Celcius.
 - Ratio Scales, represent the highest form of measurement precision.
 
-## Measurement error and multivariate measurement
+### Measurement error and multivariate measurement
 - Measurement error: the degree to which the observed values are not representative of the true values.
 - All variables used in multivariate techniques must be assumed to have some degree of measurement error.
 - To assess the degree of measurement error: 1. Check validity (ask the right question, collect the right data) 2. Check reliability (if asked multiple times, will this remain consistent).
 - Multivariate Measurement: summated scales, several variables are joined in a composite measure to represent a concept. The core reason to do this is the assumption that a composite measure reflect the true response more accurately than a single one does.
 
-## Managing the Multivariate Model
+### Managing the Multivariate Model
 - Managing the variate: Taking care of multicollinearity - when focused on only predictions it has no real impact, but when the goal is **explanation** of the individual variables' impact, we want to assess the impact for any individual independent variable. The constant challenge: Including more variables as predictors to increase overall predictive power versus the **multicollinearity** introduced by more variables which makes it more difficult to attribute the explanatory effect to specific variables.
 - Specifying the Variate Variables - A solution for the above is often dimensional reduction - forming composites and the researcher then uses the composites in further analysis rather than the original variables.
 - **Specification of the variate is critical  --- including too many variables may hinder may hinder the ability of the model to recover more generalized effects and thus the efficacy of the results.
