@@ -35,7 +35,16 @@
 - The possibility of several alternative models increases as the number of variables grows larger. So researchers should **try a number of alternative models** in specifying their research.
   
 
+## Managing the dependence model
+- Single equation forms: Multiple regresstion, discriminant analysis, ANOVA, and logistic regression. All of them provide an approach for specifying a single variate's relationship with an outcome variable.
+- Multiple equation forms: relate different equations to one another
+- General linear model: can estimate canonical correlation, multiple regression, ANOVA, MANOVA and discriminat analysis...an error distribution following the normal distribution.
 
+
+## Statistical significance vs. statistical power
+- Statistical errors: Type I alpha, false positive, the probability of rejecting the null hypothesis when it's true; Type II, beta, probability of not rejecting the null hypothesis when it's actually false (the power of the statistical inference test).
+- Power: the probability that statistical significance will be indicted if it's present, when the null hypothesis is false, and that we should rejecting the null hypothesis.
+- 
 
 
 
