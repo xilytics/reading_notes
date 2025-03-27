@@ -35,16 +35,17 @@
 - The possibility of several alternative models increases as the number of variables grows larger. So researchers should **try a number of alternative models** in specifying their research.
   
 
-## Managing the dependence model
+### Managing the dependence model
 - Single equation forms: Multiple regresstion, discriminant analysis, ANOVA, and logistic regression. All of them provide an approach for specifying a single variate's relationship with an outcome variable.
 - Multiple equation forms: relate different equations to one another
 - General linear model: can estimate canonical correlation, multiple regression, ANOVA, MANOVA and discriminat analysis...an error distribution following the normal distribution.
 
 
-## Statistical significance vs. statistical power
-- Statistical errors: Type I alpha, false positive, the probability of rejecting the null hypothesis when it's true; Type II, beta, probability of not rejecting the null hypothesis when it's actually false (the power of the statistical inference test).
-- Power: the probability that statistical significance will be indicted if it's present, when the null hypothesis is false, and that we should rejecting the null hypothesis.
-- 
+### Statistical significance vs. statistical power
+- Statistical errors: Type I alpha, false positive, the probability of rejecting the null hypothesis when it's true (不应该拒绝零假设但是拒绝了，随机因素可能是造成差异的原因）; Type II, beta, probability of not rejecting the null hypothesis when it's actually false (the power of the statistical inference test)（应该拒绝零假设但是没拒绝）.
+- Power: the probability that statistical significance will be indicted if it's present, when the null hypothesis is false, and that we should rejecting the null hypothesis. 1-beta
+- We must strike a balance between the level of alpha and the resulting power as they are inversely related.
+- 3 factors that impact on statistical Power: Effect size, significance level, sample size. Cohen suggests that studeis be designed to achieve **alpha levels of at least .05 with power levels of 80 percent**. Smaller effect size to be expected, bigger sample sizes are likely needed.
 
 
 
